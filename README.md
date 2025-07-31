@@ -1,5 +1,7 @@
 An interactive Power BI dashboard built to analyze FMCG (Fast-Moving Consumer Goods) sales and performance data. It showcases category-level insights, store performance, and customer trends using a clean, business-focused design.
 
+
+
 🔹 Key Highlights
 Visualizes sales, revenue, and category performance
 
